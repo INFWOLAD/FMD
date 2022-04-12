@@ -12,11 +12,11 @@
 
 
 
-| [**model.py**](https://fmd.netlify.app/code/model)       | [**predict.py**](https://fmd.netlify.app/code/predict)       |
-| -------------------------------------------------------- | ------------------------------------------------------------ |
-| [**train.py**](https://fmd.netlify.app/code/train)       | [**crop_face.py**](https://fmd.netlify.app/code/crop_face)   |
-| [**StartNow.py**](https://fmd.netlify.app/code/startnow) | [**my_dataset.py**](https://fmd.netlify.app/code/my_dataset) |
-| [**utils.py**](https://fmd.netlify.app/code/utils)       |                                                              |
+| [**model.py**](https://infwolad.github.io/FMD/code/model)    | [**predict.py**](https://infwolad.github.io/FMD/code/predict) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [**train.py**](https://infwolad.github.io/FMD/code/train)    | [**crop_face.py**](https://infwolad.github.io/FMD/code/crop_face) |
+| [**StartNow.py**](https://infwolad.github.io/FMD/code/startnow) | [**my_dataset.py**](https://infwolad.github.io/FMD/code/my_dataset) |
+| [**utils.py**](https://infwolad.github.io/FMD/code/utils)    |                                                              |
 
 
 

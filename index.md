@@ -20,7 +20,7 @@
 
 点击下划线进入对应详情
 
-1. [项目实现方式（包括参考文献）](https://fmd.netlify.app/methodofachieving)
-2. [项目源码（截止至2022/04/11）](https://fmd.netlify.app/codefiles)
-3. [项目检测效果（完成度：3/4）](https://fmd.netlify.app/result)
+1. [项目实现方式（包括参考文献）](https://infwolad.github.io/FMD/methodofachieving)
+2. [项目源码（截止至2022/04/11）](https://infwolad.github.io/FMD/codefiles)
+3. [项目检测效果（完成度：3/4）](https://infwolad.github.io/FMD/result)
 
