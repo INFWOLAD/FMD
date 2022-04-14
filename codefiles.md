@@ -16,7 +16,6 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [**train.py**](https://infwolad.github.io/FMD/code/train)    | [**crop_face.py**](https://infwolad.github.io/FMD/code/crop_face) |
 | [**StartNow.py**](https://infwolad.github.io/FMD/code/startnow) | [**my_dataset.py**](https://infwolad.github.io/FMD/code/my_dataset) |
-| [**utils.py**](https://infwolad.github.io/FMD/code/utils)    |                                                              |
 
 
 
